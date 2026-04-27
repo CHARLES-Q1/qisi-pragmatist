@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **apache-airflow**: Apache Airflow 是一个专门用于任务自动化调度的平台，能够程序化地编
 - **sherlock**: sherlock工具主要用于社交媒体账号搜索，间接涉及网络分析和关系数据挖掘，较
 - **transformers**: transformers 是一个强大的模型定义框架，提供了多种预训练的语言模型，
 - **scikit-learn**: scikit-learn是一套机器学习的Python库，包含多种分类算法和工具，
