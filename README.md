@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **transformers**: transformers 是一个强大的模型定义框架，提供了多种预训练的语言模型，
 - **scikit-learn**: scikit-learn是一套机器学习的Python库，包含多种分类算法和工具，
 - **networkx**: NetworkX 是一个强大而广泛使用的图论库，可以用于图的创建、分析、算法和可
 - **backtrader**: backtrader是一个成熟的Python回测库，能够直接用于实现网格交易策略
