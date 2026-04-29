@@ -11,12 +11,12 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **networkx**: NetworkX 是一个强大而广泛使用的图论库，可以用于图的创建、分析、算法和可
 - **backtrader**: backtrader是一个成熟的Python回测库，能够直接用于实现网格交易策略
 - **sherlock**: Sherlock 能够帮助你在多个社交媒体平台中找到特定用户名的账户，这有助于你
 - **numpy**: numpy 是一个基础的科学计算包，能提供大量的功能来进行科学计算和数据分析，直
 - **vaderSentiment**: vaderSentiment 提供了情感分析功能，可以用于可视化时期背景下个人情
 - **ailearning**: ailearning包含了NLTK的内容，让自然语言处理和文本分析更容易实现。
+- **scikit-learn**: scikit-learn 是一个机器学习库，提供了广泛的算法和工具，可以用于构建
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
