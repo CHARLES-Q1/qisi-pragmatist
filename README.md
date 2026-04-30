@@ -17,6 +17,7 @@
 - **ailearning**: ailearning包含了NLTK的内容，让自然语言处理和文本分析更容易实现。
 - **scikit-learn**: scikit-learn 是一个机器学习库，提供了广泛的算法和工具，可以用于构建
 - **nltk**: NLTK 是直接用于 文本分析和语言处理任务的工具，自身实现了多种语言处理功能。
+- **browser-use**: browser-use 可以帮助实现任务执行和自动化中的二阶效应思维过程的可视化
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
