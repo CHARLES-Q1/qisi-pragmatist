@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **scikit-learn**: scikit-learn 是一个机器学习库，可以直接用于个人成长和职业发展分析的
 - **stylecloud**: stylecloud 能够生成基于文本频率的词云来可视化艺术创作中的边缘经验，直
 - **tracer**: Tracer提供了统计性ray-tracing功能，可以用于分析和决策模型，弥补
 - **sherlock**: sherlock 可以用于搜索社交媒体账户信息，弥补了网络分析中的缺口。
@@ -19,6 +18,7 @@
 - **transformers**: transformers 包含了多种预训练语言模型，可以用于自然语言处理和文本分
 - **transformers**: Transformers是处理和理解自然语言的最为合适的工具，因为它提供了一个模
 - **numpy**: numpy 是 Python 的基本科学计算包，直接提供了科学计算和统计分析的能
+- **sherlock**: sherlock 可以通过用户名在社交媒体平台中搜索相关账号，直接弥补了社交网络
 ## 最新洞见
 
 > 1. **收敛洞见**：
