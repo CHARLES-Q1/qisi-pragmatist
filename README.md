@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **sherlock**: sherlock 可以用于搜索社交媒体账户信息，弥补了网络分析中的缺口。
 - **networkx**: NetworkX 提供了广泛的网络分析功能，包括计算度数、聚类系数、中心度等，可
 - **transformers**: transformers 包含了多种预训练语言模型，可以用于自然语言处理和文本分
 - **transformers**: Transformers是处理和理解自然语言的最为合适的工具，因为它提供了一个模
@@ -19,6 +18,7 @@
 - **sherlock**: sherlock 可以通过用户名在社交媒体平台中搜索相关账号，直接弥补了社交网络
 - **pandas**: pandas 是一个用于高效处理和分析数据的库，特别适合用于处理和分析API订阅
 - **geopy**: geopy 是专门用于处理地理位置和坐标转换的库，直接弥补了 "腔室缺口"。
+- **statsmodels**: statsmodels 是一个专门用于统计推理和经济学计量分析的工具包，直接弥补
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
