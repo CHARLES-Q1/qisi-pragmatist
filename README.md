@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **graphviz**: graphviz 是一个用于可视化历史事件之间的关系的图形工具，直接支持生成图形
 - **scikit-learn**: scikit-learn 是一个强大的机器学习库，提供了大量的算法和工具，能够帮
 - **statsmodels**: statsmodels 是一个专门的统计分析和经济学模拟库，提供了大量的统计模型
 - **networkx**: NetworkX 是一个用于创建、分析和可视化复杂网络的 Python 库，特别
@@ -21,6 +20,7 @@
 - **transformers**: transformers 是一个强大的模型定义框架，能够实现自然语言处理任务的各
 - **pyPDF2**: PDF-Extract-Kit 是一个可以高质量提取 PDF 内容的工具 kit
 - **luigi**: Luigi 是一个用于构建批处理作业管道的 Python 模块，可以帮助你管理复
+- **networkx**: networkx 是一个广泛使用的网络分析库，提供了从简单的网络结构到复杂的社区
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
