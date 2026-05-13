@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **networkx**: networkx 是一个广泛使用的网络分析库，提供了从简单的网络结构到复杂的社区
 - **cocotools**: coco工具包常用于计算机视觉任务的模型效能和成本分析，特别是在COCO数据集上
 - **graphviz**: graphviz 是一个简单的 Python 接口，直接用于 Graphviz，
 - **holehe**: holehe 可以帮助你检查是否有人在不同网站上使用了你的邮箱账号，这样可以有效
@@ -19,6 +18,7 @@
 - **osmnx**: osmnx专门用于下载、建模、分析和可视化街道网络和其他地理空间特征，直接弥补了
 - **transformers**: transformers 是一个用于 自动化分析政治实践者体验深度临在的文本数据
 - **nlp**: nlp 包括各种 NLP 框架，如 word2vec、nltk、textblob
+- **networkx**: NetworkX 是一个专门用于网络分析和矛盾关系建模的库，直接弥补了腔室缺口的
 ## 最新洞见
 
 > 1. **收敛洞见**：
