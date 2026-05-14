@@ -19,6 +19,7 @@
 - **transformers**: transformers 是一个用于 自动化分析政治实践者体验深度临在的文本数据
 - **nlp**: nlp 包括各种 NLP 框架，如 word2vec、nltk、textblob
 - **networkx**: NetworkX 是一个专门用于网络分析和矛盾关系建模的库，直接弥补了腔室缺口的
+- **scikit-learn**: scikit-learn 提供了矛盾分析和冲突检测的相关算法和工具，直接弥补了缺
 ## 最新洞见
 
 > **收敛洞见:**
