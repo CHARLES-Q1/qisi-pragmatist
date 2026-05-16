@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **networkx**: networkx 是一个专门用于关系网络分析的库，可以直接弥补腔室缺口。
 - **osmnx**: osmnx专门用于下载、建模、分析和可视化街道网络和其他地理空间特征，直接弥补了
 - **transformers**: transformers 是一个用于 自动化分析政治实践者体验深度临在的文本数据
 - **nlp**: nlp 包括各种 NLP 框架，如 word2vec、nltk、textblob
@@ -20,6 +19,7 @@
 - **scikit-learn**: scikit-learn 是一个强大的机器学习库，提供了大量的算法和工具，能直接
 - **networkx**: NetworkX 是一个用于图结构分析的 Python 库，可以用于社区发现等任
 - **ailearning**: ailearning 包含了 NLTK 的功能，并且还提供了其他 AI 相关工具
+- **networkx**: Networkx 是一个 Python 库，用于创建、操纵和分析复杂网络，包括社
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
