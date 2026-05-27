@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **scikit-learn**: scikit-learn 是一个用于机器学习和数据分析的 Python 库，可以
 - **browser-use**: browser-use 可以帮助 AI 代理访问网站并自动化在线任务，这与实现任
 - **scikit-learn**: scikit-learn 是一个 Python 机器学习库，包含了决策树等多种算
 - **braindecode**: braindecode 是一个用于处理和分析脑电信号数据的深度学习软件，非常适合
@@ -19,6 +18,7 @@
 - **geopy**: geopy 是一个 Python的地理编码库，能够将地址转换为地理坐标，并且可以
 - **schedule**: schedule 是一个专门用于定时任务的计划和执行的工具，直接弥补了腔室缺口。
 - **scipy**: scipy 是一款专业的数值计算和统计分析工具，直接弥补了腔室缺口的需求。
+- **networkx**: networkx是专门用于图论和网络分析的工具，可以实现各种图论和网络分析的功能
 ## 最新洞见
 
 > 1. **收敛洞见：**
