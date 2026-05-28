@@ -18,6 +18,7 @@
 - **networkx**: networkx是专门用于图论和网络分析的工具，可以实现各种图论和网络分析的功能
 - **graphviz**: graphviz 是一个简单的 Python 接口，用于与 Graphviz 交
 - **scipy**: scipy 是专门用于数值计算和优化的科学计算库，可以直接用于评估客户可得利益量
+- **scipy**: SciPy 是一个用于优化和自动化的 Python 库，特别适合于数学计算和科学
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
