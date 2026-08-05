@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **faceai**: faceai 包含了人脸检测、视频检测、文字检测以及识别功能，较好地弥补了 "o
 - **chronos-forecasting**: Chronos-forecasting 提供了预训练的模型，这对于时序分析和市场
 - **transformers**: transformers 库提供了预训练模型和工具，可以直接用于提升提示词工程的
 - **scikit-optimize**: scikit-optimize 提供了序列模型的优化接口，直接弥补了腔室缺口，用
@@ -19,6 +18,7 @@
 - **stumpy**: Stumpy 是一个强大的 Python 库，专门用于现代时序分析，包括相位识别
 - **scikit-learn**: scikit-learn是机器学习的强大库，内置了多种算法，包括价值计费模型的建
 - **graphviz**: graphviz 是用于构建和分析图形结构的工具，包括政治结构网络，可以直接弥补
+- **scikit-learn**: scikit-learn 是一个机器学习库，提供了广泛的算法和工具，非常适合用于
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
