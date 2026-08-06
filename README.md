@@ -19,6 +19,7 @@
 - **CowAgent**: CowAgent 是一个开源的超级 AI 助手和 Agent Harness，可
 - **transformers**: transformers 是一个用于处理自然语言理解和生成文本任务的框架，直接弥
 - **nltk**: NLTK 是一个自然语言处理的工具包，直接弥补了 "nltk" 的缺口。
+- **nltk**: NLTK 是一个用于自然语言处理的工具包，直接提供了情感分析和文本挖掘的功能，因
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
