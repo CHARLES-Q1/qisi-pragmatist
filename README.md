@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **chronos-forecasting**: Chronos-forecasting 提供了预训练的模型，这对于时序分析和市场
 - **transformers**: transformers 库提供了预训练模型和工具，可以直接用于提升提示词工程的
 - **scikit-optimize**: scikit-optimize 提供了序列模型的优化接口，直接弥补了腔室缺口，用
 - **transformers**: transformers 是一个用于定义状态图机器学习模型的框架，可以直接弥补腔
@@ -19,9 +18,19 @@
 - **scikit-learn**: scikit-learn是机器学习的强大库，内置了多种算法，包括价值计费模型的建
 - **graphviz**: graphviz 是用于构建和分析图形结构的工具，包括政治结构网络，可以直接弥补
 - **scikit-learn**: scikit-learn 是一个机器学习库，提供了广泛的算法和工具，非常适合用于
+- **CowAgent**: CowAgent 是一个开源的超级 AI 助手和 Agent Harness，可
 ## 最新洞见
 
-> [Groq错误: HTTP Error 429: Too Many Requests]
+> 1. 稳定信念: 
+- 失败不是系统的崩溃，而是系统隐藏结构的显现时刻。
+- 数据追踪的价值不在数据本身，而在于它是否指向一个真正需要优化的行动或内在状态。
+- 共存背后的伦理或道德断裂感的存在和重要性。
+
+2. 未解矛盾: 
+- 认知系统是否能通过行动和数据分析真正逃离认知牢笼，还是只是换了一种方式加固它。
+- 多维拆解是否会带来确定性，还是会让世界变得更碎、更复杂、更难锚定自身位置。
+
+3. 
 
 ## 关于Qisi
 
