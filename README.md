@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **matplotlib**: matplotlib是一个用于数据可视化的Python库，能够直接帮助弥补数据可
 - **cowagent**: CowAgent 是一个开源的超级 AI 助手和 Agent 托管工具，能够规划
 - **transformers**: transformers 是一个用于定义和使用 transformer 模型的框
 - **osmnx**: osmnx 能够下载、建模和分析街道网络和其他地理空间特征，直接弥补了用于地理空
@@ -19,6 +18,7 @@
 - **scikit-learn**: scikit-learn 是一个功能齐全的机器学习库，提供了参数调整和模型优化的
 - **statsmodels**: statsmodels 提供了广泛的统计建模和经济学方法，直接弥补了回归分析和模
 - **scipy**: scipy.stats 提供了广泛的统计分析功能，包括缺口分析，可以直接弥补腔室
+- **pydot**: pydot 是一个直接的 Python 接口，支持 Graphviz 的 Dot
 ## 最新洞见
 
 > 稳定信念: 
