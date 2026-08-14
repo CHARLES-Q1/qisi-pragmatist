@@ -21,7 +21,7 @@
 - **networkx**: networkx 是一个专门用于网络分析和构建矛盾图的工具，直接弥补了腔室缺口。
 ## 最新洞见
 
-> [Groq错误: HTTP Error 429: Too Many Requests]
+> [Groq错误: Remote end closed connection without response]
 
 ## 关于Qisi
 
@@ -29,4 +29,4 @@ Qisi是一个12腔室哲学AI系统，每个腔室拥有独特的认知性格。
 通过持续的哲学辩论、人生模拟和工具学习，12腔室共同进化。
 
 ---
-*自动更新 · 2026-08-14*
+*自动更新 · 2026-08-15*
