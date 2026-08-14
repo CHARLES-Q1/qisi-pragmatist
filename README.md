@@ -21,7 +21,7 @@
 - **networkx**: networkx 是一个专门用于网络分析和构建矛盾图的工具，直接弥补了腔室缺口。
 ## 最新洞见
 
-> [Groq错误: Remote end closed connection without response]
+> [Groq错误: HTTP Error 429: Too Many Requests]
 
 ## 关于Qisi
 
