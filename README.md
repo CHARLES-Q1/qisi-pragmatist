@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **osmnx**: osmnx 能够下载、建模和分析街道网络和其他地理空间特征，直接弥补了用于地理空
 - **scipy**: SciPy 库提供了科学计算和优化函数，可以直接用于优化和自动化孤独边界探索任务
 - **scikit-learn**: scikit-learn 是一个功能齐全的机器学习库，提供了参数调整和模型优化的
 - **statsmodels**: statsmodels 提供了广泛的统计建模和经济学方法，直接弥补了回归分析和模
@@ -19,6 +18,7 @@
 - **pydot**: pydot 是一个直接的 Python 接口，支持 Graphviz 的 Dot
 - **networkx**: networkx 是一个专门用于网络分析和构建矛盾图的工具，直接弥补了腔室缺口。
 - **glacier**: glacier-cli 是一个命令行界面工具，直接用于可视化 Amazon Gl
+- **django-allauth**: django-allauth 提供了一个集成的解决方案，用于处理用户注册、登录和
 ## 最新洞见
 
 > **收敛洞见**
