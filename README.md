@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **scipy**: SciPy 库提供了科学计算和优化函数，可以直接用于优化和自动化孤独边界探索任务
 - **scikit-learn**: scikit-learn 是一个功能齐全的机器学习库，提供了参数调整和模型优化的
 - **statsmodels**: statsmodels 提供了广泛的统计建模和经济学方法，直接弥补了回归分析和模
 - **scipy**: scipy.stats 提供了广泛的统计分析功能，包括缺口分析，可以直接弥补腔室
@@ -20,6 +19,7 @@
 - **glacier**: glacier-cli 是一个命令行界面工具，直接用于可视化 Amazon Gl
 - **django-allauth**: django-allauth 提供了一个集成的解决方案，用于处理用户注册、登录和
 - **scikit-learn**: scikit-learn是Python中一个广泛使用的机器学习库，包含了大量的算
+- **scipy**: scipy.stats 提供了广泛的统计分布和概率计算功能，包括分布函数、统计量
 ## 最新洞见
 
 > **收敛洞见:**
