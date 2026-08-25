@@ -22,7 +22,7 @@
 - **scipy**: scipy.stats 提供了广泛的统计分布和概率计算功能，包括分布函数、统计量
 ## 最新洞见
 
-> [Groq错误: Remote end closed connection without response]
+> [Groq错误: HTTP Error 404: Not Found]
 
 ## 关于Qisi
 
