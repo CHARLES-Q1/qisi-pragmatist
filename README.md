@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **scikit-learn**: scikit-learn 是一个功能齐全的机器学习库，提供了参数调整和模型优化的
 - **statsmodels**: statsmodels 提供了广泛的统计建模和经济学方法，直接弥补了回归分析和模
 - **scipy**: scipy.stats 提供了广泛的统计分析功能，包括缺口分析，可以直接弥补腔室
 - **pydot**: pydot 是一个直接的 Python 接口，支持 Graphviz 的 Dot
