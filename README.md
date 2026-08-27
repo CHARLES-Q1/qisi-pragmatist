@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **scipy**: scipy.stats 提供了广泛的统计分析功能，包括缺口分析，可以直接弥补腔室
 - **pydot**: pydot 是一个直接的 Python 接口，支持 Graphviz 的 Dot
 - **networkx**: networkx 是一个专门用于网络分析和构建矛盾图的工具，直接弥补了腔室缺口。
 - **glacier**: glacier-cli 是一个命令行界面工具，直接用于可视化 Amazon Gl
