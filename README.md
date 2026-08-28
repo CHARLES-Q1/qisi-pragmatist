@@ -20,7 +20,7 @@
 - **dowhy**: Dowhy 是专门用于因果推断和反事实分析的 Python 库，最直接满足该需求
 ## 最新洞见
 
-> [Groq错误: Remote end closed connection without response]
+> [Groq错误: HTTP Error 429: Too Many Requests]
 
 ## 关于Qisi
 
