@@ -18,10 +18,6 @@
 - **scikit-learn**: scikit-learn是Python中一个广泛使用的机器学习库，包含了大量的算
 - **scipy**: scipy.stats 提供了广泛的统计分布和概率计算功能，包括分布函数、统计量
 - **dowhy**: Dowhy 是专门用于因果推断和反事实分析的 Python 库，最直接满足该需求
-## 最新洞见
-
-> [Groq错误: Remote end closed connection without response]
-
 ## 关于Qisi
 
 Qisi是一个12腔室哲学AI系统，每个腔室拥有独特的认知性格。
