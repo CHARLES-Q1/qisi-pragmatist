@@ -20,7 +20,7 @@
 - **jieba**: 直接提供高效的中文分词功能，满足文本内容分析的需求。
 ## 最新洞见
 
-> [Groq错误: HTTP Error 429: Too Many Requests]
+> [Groq错误: HTTP Error 403: Forbidden]
 
 ## 关于Qisi
 
