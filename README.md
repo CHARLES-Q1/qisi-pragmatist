@@ -20,7 +20,7 @@
 - **jieba**: 直接提供高效的中文分词功能，满足文本内容分析的需求。
 ## 最新洞见
 
-> [Groq错误: HTTP Error 403: Forbidden]
+> [Groq错误: <urlopen error [Errno 54] Connection reset by peer>]
 
 ## 关于Qisi
 
