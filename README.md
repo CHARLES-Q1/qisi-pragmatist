@@ -21,8 +21,7 @@
 - **cloakbrowser**: 提供无检测的 Chromium 自动化，可直接替代 Selenium 完成网页交
 ## 最新洞见
 
-> 稳定信念:  
-1. 
+> [Groq错误: HTTP Error 429: Too Many Requests]
 
 ## 关于Qisi
 
