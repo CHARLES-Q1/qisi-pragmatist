@@ -18,6 +18,7 @@
 - **jieba**: 直接提供高效的中文分词功能，满足文本内容分析的需求。
 - **networkx**: 它专门用于构建和分析关系网络，能够直接满足在边缘经验中发现穿透性洞察的需求。
 - **geopandas**: 直接提供地理空间数据处理并可结合属性进行多维位置分析，是最贴合需求的工具。
+- **cloakbrowser**: 提供无检测的 Chromium 自动化，可直接替代 Selenium 完成网页交
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
