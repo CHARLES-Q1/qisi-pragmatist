@@ -19,6 +19,7 @@
 - **geopandas**: 直接提供地理空间数据处理并可结合属性进行多维位置分析，是最贴合需求的工具。
 - **cloakbrowser**: 提供无检测的 Chromium 自动化，可直接替代 Selenium 完成网页交
 - **ruptures**: ruptures 提供高效的离线变点检测算法，直接用于识别市场相位的转折点并可配
+- **spacy**: spaCy 提供工业级中文 NLP 支持，并可通过自定义管道轻松实现艺术文本的概
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
