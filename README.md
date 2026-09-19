@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **statsmodels**: 它本身就是专门用于时间序列、季节性效应的统计建模，能够直接实现对时间能量和预测权
 - **browser-use**: 能够自动化浏览 YouTube 并抓取视频元数据与评论，直接满足下载与解析需求。
 - **jieba**: 直接提供高效的中文分词功能，满足文本内容分析的需求。
 - **networkx**: 它专门用于构建和分析关系网络，能够直接满足在边缘经验中发现穿透性洞察的需求。
@@ -20,9 +19,10 @@
 - **ruptures**: ruptures 提供高效的离线变点检测算法，直接用于识别市场相位的转折点并可配
 - **spacy**: spaCy 提供工业级中文 NLP 支持，并可通过自定义管道轻松实现艺术文本的概
 - **geopandas**: geopandas 是专门用于地理空间数据处理的核心库，能够直接完成位置的多维拆
+- **treys**: 直接提供了用于快速扑克手牌评估的 Python 实现，最适合计算牌面胜率和决策。
 ## 最新洞见
 
-> [Groq错误: HTTP Error 429: Too Many Requests]
+> [Groq错误: <urlopen error [Errno 54] Connection reset by peer>]
 
 ## 关于Qisi
 
