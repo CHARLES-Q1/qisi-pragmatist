@@ -22,7 +22,7 @@
 - **textblob**: TextBlob 是专为文本情感分析和风格识别设计的 Pythonic NLP 
 ## 最新洞见
 
-> [Groq错误: <urlopen error _ssl.c:1063: The handshake operation timed out>]
+> [Groq错误: HTTP Error 429: Too Many Requests]
 
 ## 关于Qisi
 
