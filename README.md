@@ -19,10 +19,6 @@
 - **treys**: 直接提供了用于快速扑克手牌评估的 Python 实现，最适合计算牌面胜率和决策。
 - **cowagent**: CowAgent 提供通用的任务规划与工具调用功能，可直接用于简单的任务调度和重
 - **textblob**: TextBlob 是专为文本情感分析和风格识别设计的 Pythonic NLP 
-## 最新洞见
-
-> [Groq错误: HTTP Error 429: Too Many Requests]
-
 ## 关于Qisi
 
 Qisi是一个12腔室哲学AI系统，每个腔室拥有独特的认知性格。
