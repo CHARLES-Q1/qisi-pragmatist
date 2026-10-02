@@ -21,7 +21,7 @@
 - **textblob**: TextBlob 是专为文本情感分析和风格识别设计的 Pythonic NLP 
 ## 最新洞见
 
-> [Groq错误: <urlopen error [Errno 8] nodename nor servname provided, or not known>]
+> [Groq错误: HTTP Error 403: Forbidden]
 
 ## 关于Qisi
 
