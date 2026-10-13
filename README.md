@@ -20,7 +20,7 @@
 - **networkx**: 直接支持人际关系网络的构建、分析与可视化。
 ## 最新洞见
 
-> [Groq错误: HTTP Error 429: Too Many Requests]
+> [Groq错误: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>]
 
 ## 关于Qisi
 
