@@ -19,6 +19,7 @@
 - **networkx**: 直接提供构建、分析层级结构图谱以及故障传播等网络拓扑功能，最符合“用于构建和分析
 - **geopandas**: geopandas 是专门用于处理和分析地理空间数据的 Python 库，功能最
 - **psutil**: 它是跨平台的 Python 库，专门用于实时获取 CPU、内存、磁盘、网络等系统
+- **textblob**: TextBlob 是最直接、最简易的 Python 文本处理库，内置情感分析和主
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
