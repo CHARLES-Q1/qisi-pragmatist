@@ -18,6 +18,7 @@
 - **lifelines**: lifelines 是专门用于生命期分析的 Python 库，能直接完成相关时间
 - **geopandas**: 它提供完整的空间分析功能，能够直接对位置数据进行几何运算和空间查询，以帮助理解视
 - **networkx**: 直接提供构建、分析层级结构图谱以及故障传播等网络拓扑功能，最符合“用于构建和分析
+- **geopandas**: geopandas 是专门用于处理和分析地理空间数据的 Python 库，功能最
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
