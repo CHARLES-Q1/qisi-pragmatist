@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **networkx**: 它是 Python 中最直接、成熟的库，用于构建和分析各种关系图，包括艺术实践者
 - **spacy**: spaCy 提供强大的工业级 NLP 功能，可直接用于艺术文本的句法分析、实体识
 - **lifelines**: lifelines 是专门用于生命期分析的 Python 库，能直接完成相关时间
 - **geopandas**: 它提供完整的空间分析功能，能够直接对位置数据进行几何运算和空间查询，以帮助理解视
@@ -19,6 +18,7 @@
 - **geopandas**: geopandas 是专门用于处理和分析地理空间数据的 Python 库，功能最
 - **psutil**: 它是跨平台的 Python 库，专门用于实时获取 CPU、内存、磁盘、网络等系统
 - **textblob**: TextBlob 是最直接、最简易的 Python 文本处理库，内置情感分析和主
+- **statsmodels**: statsmodels 提供完整的计量经济学工具，可直接用于经济价值评估与因果推
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
