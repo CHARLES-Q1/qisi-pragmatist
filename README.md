@@ -19,6 +19,7 @@
 - **networkx**: networkx 是专门用于构建、分析和可视化图结构的 Python 库，最直接
 - **networkx**: NetworkX 提供了构建、操作和分析多维图结构的完整 API，能够直接满足多
 - **nltk**: NLTK 提供完整的自然语言处理工具和情感分析模块，能直接用于对社会矛盾文本进行
+- **statsmodels**: 它专门提供统计建模和计量经济学工具，直接满足进行经济计量分析以量化客户可得利益的
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
