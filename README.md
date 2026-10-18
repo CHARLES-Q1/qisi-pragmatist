@@ -20,6 +20,7 @@
 - **textblob**: TextBlob 直接提供情感分析和主题（名词短语）提取，最适合对时代与个人关系
 - **langchain**: Langchain 本身就是专为构建和管理复杂 AI 工作流的代理工程平台，直接
 - **statsmodels**: Statsmodels 提供了完整的计量经济学工具，能直接进行回归、面板数据、I
+- **nltk**: NLTK 提供完整的文本处理和情感分析功能，直接用于谈判文本的自然语言处理和非暴
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
