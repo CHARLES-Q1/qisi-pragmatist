@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **textblob**: TextBlob 是最直接、最简易的 Python 文本处理库，内置情感分析和主
 - **statsmodels**: statsmodels 提供完整的计量经济学工具，可直接用于经济价值评估与因果推
 - **statsmodels**: 它提供丰富的统计检验、回归系数显著性检验以及模型权重比较功能，直接满足对时间序列
 - **networkx**: networkx 是专门用于构建、分析和可视化图结构的 Python 库，最直接
@@ -20,6 +19,7 @@
 - **statsmodels**: 它专门提供统计建模和计量经济学工具，直接满足进行经济计量分析以量化客户可得利益的
 - **textblob**: TextBlob 直接提供情感分析和主题（名词短语）提取，最适合对时代与个人关系
 - **langchain**: Langchain 本身就是专为构建和管理复杂 AI 工作流的代理工程平台，直接
+- **statsmodels**: Statsmodels 提供了完整的计量经济学工具，能直接进行回归、面板数据、I
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
