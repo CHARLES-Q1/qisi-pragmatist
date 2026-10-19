@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **langchain**: Langchain 本身就是专为构建和管理复杂 AI 工作流的代理工程平台，直接
 - **statsmodels**: Statsmodels 提供了完整的计量经济学工具，能直接进行回归、面板数据、I
 - **nltk**: NLTK 提供完整的文本处理和情感分析功能，直接用于谈判文本的自然语言处理和非暴
 - **sentence-transformers**: 直接提供高质量的句子嵌入，可用于计算提示与输出之间的语义相似度。
@@ -19,6 +18,7 @@
 - **geopandas**: 直接提供处理地理空间数据的核心功能。
 - **statsmodels**: statsmodels 提供丰富的时间序列分析、结构性模型和状态空间模型，直接支
 - **networkx**: 直接提供构建、分析和可视化网络结构的完整功能，最符合需求。
+- **statsmodels**: statsmodels 是专门为经济学计量分析和模型估计设计的库，能够直接填补该
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
