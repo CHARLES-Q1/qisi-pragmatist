@@ -11,12 +11,12 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **statsmodels**: statsmodels 是专门为经济学计量分析和模型估计设计的库，能够直接填补该
 - **geopandas**: geopandas 是专门用于地理空间数据处理和分析的 Python 库，能直接
 - **vectorbt**: vectorbt 内置了 TA‑Lib 风格的技术指标计算，并提供完整的量化回测
 - **textblob**: TextBlob 直接提供情感分析功能，可用于评估文本中的孤独感和被研究的情绪状
 - **statsmodels**: 它提供丰富的统计检验（t检验、Wilcoxon、ADF 等）和回归诊断工具，可直
 - **dowhy**: DoWhy 直接支持构建因果图并估计二阶（交互）效应，提供完整的因果推断工作流，
+- **networkx**: 直接提供灵活的图结构与分析功能，最适合将模糊想法结构化为可传播的概念关系图。
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
