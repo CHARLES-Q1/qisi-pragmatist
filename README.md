@@ -18,6 +18,7 @@
 - **geopy**: geopy 是专门用于地理编码和反向地理编码的库，能够直接获取坐标并支持位置决定
 - **nltk**: NLTK 提供了完整的自然语言处理工具集（分词、词性标注、句法分析等），可与自定
 - **networkx**: NetworkX 提供了最完整的图形构建、分析与层次结构处理功能，直接满足竞争关
+- **geopandas**: geopandas 是用于处理和分析空间数据的核心库，直接支持空间经济数据的地理
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
