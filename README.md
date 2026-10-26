@@ -19,6 +19,7 @@
 - **geopandas**: geopandas 是专门用于在地理维度上进行空间数据分析和可视化的核心库，直接
 - **langchain**: LangChain 是专门为构建、调试和分析提示工程与模型推理链而设计的工程平台
 - **apscheduler**: 直接提供 APScheduler 任务调度功能，满足定时调度任务实现自动化的需求
+- **networkx**: 提供全面的图构建、操作与分析功能，最适合直接构建和分析影响力网络。
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
