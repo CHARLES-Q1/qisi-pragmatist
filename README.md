@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **backtrader**: backtrader 本身提供完整的真实订单执行与滑点模拟功能，最能直接弥补该缺
 - **transformers**: 该库提供了对 GPT 系列模型的加载、推理和内部注意力/激活分析的完整工具，直接
 - **textblob**: TextBlob 直接提供情感分析和主题抽取功能，最符合“对情感与孤独感进行情感
 - **networkx**: 直接提供图构建、社交网络分析和多种网络指标的实现，最符合研究社会结构网络的需求。
@@ -20,6 +19,7 @@
 - **networkx**: 直接提供构建和分析概念关系图的功能，最符合构建矛盾概念图谱的需求。
 - **transformers**: 🤗 Transformers 提供了最前沿的预训练语言模型（如BERT、GPT、
 - **streamlit**: 直接提供快速搭建交互式Web界面和部署AI模型的功能。
+- **networkx**: NetworkX 提供了构建、分析和操作任意图结构的完整功能，最适合直接处理自然
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
