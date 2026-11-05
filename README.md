@@ -20,7 +20,7 @@
 - **cpmpy**: 提供强大的约束编程建模与求解能力，能够灵活定义并求解教学目标的约束条件。
 ## 最新洞见
 
-> [Groq错误: <urlopen error _ssl.c:1063: The handshake operation timed out>]
+> [Groq错误: HTTP Error 429: Too Many Requests]
 
 ## 关于Qisi
 
