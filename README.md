@@ -19,6 +19,7 @@
 - **statsmodels**: statsmodels 是专为统计建模和计量经济学设计的 Python 库，直接
 - **dowhy**: Dowhy 是最成熟的因果推断库，直接支持建模和评估行动的二阶因果效应。
 - **transformers**: 直接提供预训练语言模型，可用于加载和推理检测文本矛盾的模型。
+- **nltk**: NLTK 是最常用的自然语言处理库，提供分词、词性标注、句法分析等基础工具，可用
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
