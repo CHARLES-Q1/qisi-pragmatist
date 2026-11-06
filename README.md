@@ -19,6 +19,7 @@
 - **cpmpy**: 提供强大的约束编程建模与求解能力，能够灵活定义并求解教学目标的约束条件。
 - **geopy**: geopy 是专门用于地理编码和坐标转换的 Python 库，最直接满足根据地理
 - **graphviz**: 直接提供 Python 接口，可快速生成并渲染有向图，最适合用于可视化认知结构与
+- **statsmodels**: statsmodels 是专为统计建模和计量经济学设计的 Python 库，直接
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
