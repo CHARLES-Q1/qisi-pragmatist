@@ -18,6 +18,7 @@
 - **networkx**: 直接支持构建、分析任务依赖与失败结构的有向图。
 - **spacy**: spaCy 提供强大的依存句法分析和实体识别，可直接用于抽取教育文本中的位置实体
 - **statsmodels**: statsmodels 是专门用于时间序列与信号的统计检验与预测模型构建的完整库
+- **networkx**: 它专门用于在 Python 中构建、操作和分析多维关系网络，直接满足“多维关系网
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
