@@ -17,6 +17,7 @@
 - **statsmodels**: statsmodels 是专门用于时间序列分析和计量经济学模型的 Python 
 - **transformers**: 该库提供完整的模型加载、文本生成与解析接口，能直接获取 GPT 输出并进行结构与
 - **networkx**: 直接支持构建、分析任务依赖与失败结构的有向图。
+- **spacy**: spaCy 提供强大的依存句法分析和实体识别，可直接用于抽取教育文本中的位置实体
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
