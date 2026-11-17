@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **pytube**: pytube 是专门用于获取和分析 YouTube 视频元数据的轻量级、无依赖的
 - **dowhy**: Dowhy 提供完整的因果模型构建与二阶（异质）效应估计功能，直接填补因果推断和
 - **sympy**: SymPy 提供符号逻辑（`sympy.logic`）和布尔代数，可用于形式化推
 - **pomegranate**: pomegranate 是专门用于快速、灵活构建概率模型的 Python 库，正
