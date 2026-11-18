@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **pomegranate**: pomegranate 是专门用于快速、灵活构建概率模型的 Python 库，正
 - **transformers**: 直接提供模型加载、结构检查和推理功能，最符合弥补“加载和分析大语言模型的结构与推
 - **transformers**: 🤗 Transformers 提供了高级自然语言理解与生成模型，可直接用于认知与
 - **networkx**: NetworkX 提供了构建、查询和分析图结构的完整功能，能直接用来建模技能组合
@@ -19,6 +18,7 @@
 - **geopy**: geopy 能根据地址或坐标进行地理编码/逆编码，帮助计算位置的经纬度，从而推断
 - **sympy**: SymPy 提供了符号计算功能，可用于形式逻辑和伦理推理的符号推演。
 - **open-assistant**: Open-Assistant 是基于 LLM 的聊天式助手，能够直接完成自然语言
+- **plotly**: Plotly 是专门为交互式可视化设计的 Python 库，能轻松生成可嵌入网页
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
