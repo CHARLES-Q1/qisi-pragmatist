@@ -16,6 +16,7 @@
 - **langchain**: LangChain 专为在语言模型与外部工具、API、数据库等之间建立桥梁，直接
 - **textblob**: TextBlob 提供情感分析、词性标注等功能，直接用于分析文本特征以发现写作声
 - **statsmodels**: 它专门提供统计建模与计量经济学工具，最直接满足对市场行为和失效模式的统计建模与结
+- **sympy**: SymPy 能在 Python 环境中实现符号逻辑推理与符号计算，直接满足分析与
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
