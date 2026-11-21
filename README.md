@@ -17,6 +17,7 @@
 - **sympy**: SymPy 能在 Python 环境中实现符号逻辑推理与符号计算，直接满足分析与
 - **networkx**: networkx 提供完整的图构建、属性管理和分析功能，最适合用于艺术中失败揭示
 - **scikit-learn**: 直接提供构建、训练与评估机器学习模型的完整工具集，最适合客户价值预测任务。
+- **networkx**: 它是 Python 中最直接、成熟的库，用于构建关系图、分析边缘属性并执行穿透性
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
