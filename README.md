@@ -18,6 +18,7 @@
 - **scikit-learn**: 直接提供构建、训练与评估机器学习模型的完整工具集，最适合客户价值预测任务。
 - **networkx**: 它是 Python 中最直接、成熟的库，用于构建关系图、分析边缘属性并执行穿透性
 - **pandas**: pandas 是专为结构化数据分析与比较设计的库，可直接用于对模型性能和成本数据
+- **apscheduler**: 直接提供高效的 Python 任务调度功能，最贴合“APScheduler 用于
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
