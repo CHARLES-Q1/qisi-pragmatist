@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **pandas_market_calendars**: 该库提供各交易所的完整交易日历和交易时间窗口，可直接用于获取节假日信息并分析其对
 - **yfinance**: 直接提供从 Yahoo! Finance 获取实时金融市场数据的功能，最符合弥补
 - **textblob**: 它本身就是用于情感分析和文本理解的简洁 Python 库，最直接满足需求。
 - **langchain**: LangChain 专为构建与 LLM（如 ChatGPT）的交互式推理、任务分
@@ -19,6 +18,7 @@
 - **dowhy**: DoWhy 是专门用于因果推理的成熟 Python 库，直接满足缺口需求。
 - **textblob**: TextBlob 是专门用于文本情感分析和矛盾倾向识别的 Python 包，能够
 - **tiktoken**: tiktoken 是 OpenAI 官方的快速 BPE 词元化器，能直接计算和分
+- **jhTAlib**: 直接提供基于 ta‑lib 的技术指标计算，可与时间能量和量化信号模型无缝结合。
 ## 最新洞见
 
 > **稳定信念:**  
