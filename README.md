@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **pandas**: pandas 是专为数据分析和可视化设计的强大库，最直接满足对用户行为和服务价值
 - **dowhy**: DoWhy 是专门用于因果推理的成熟 Python 库，直接满足缺口需求。
 - **textblob**: TextBlob 是专门用于文本情感分析和矛盾倾向识别的 Python 包，能够
 - **tiktoken**: tiktoken 是 OpenAI 官方的快速 BPE 词元化器，能直接计算和分
@@ -20,6 +19,7 @@
 - **langchain**: 它本身就是用于简化与语言模型交互的框架，最直接填补“方便与语言模型交互以进行更深
 - **textblob**: TextBlob 直接提供情感分析和主题（关键词）抽取，最适合对时代与个人关系的
 - **jhTAlib**: 提供完整的技术分析指标实现，可直接替代 ta‑lib 计算 WR 等指标。
+- **statsmodels**: 直接提供丰富的统计建模与计量经济学工具，可用于量化客户收益的回归、时间序列和面板
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
