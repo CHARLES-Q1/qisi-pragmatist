@@ -11,7 +11,6 @@
 进化不是消除性，而是让性在更高维度展开。
 
 ## 已安装工具
-- **tiktoken**: tiktoken 是 OpenAI 官方的快速 BPE 词元化器，能直接计算和分
 - **jhTAlib**: 直接提供基于 ta‑lib 的技术指标计算，可与时间能量和量化信号模型无缝结合。
 - **textblob**: TextBlob 提供简单易用的情感分析和词性标注，足以支持非暴力沟通（NVC）
 - **langchain**: 它本身就是用于简化与语言模型交互的框架，最直接填补“方便与语言模型交互以进行更深
@@ -21,6 +20,7 @@
 - **geopandas**: 它是专门用于地理空间分析和位置视角处理的核心 Python 库。
 - **python-igraph**: python-igraph 提供完整的图结构、边强度分析与社区检测功能，能高效处
 - **statsmodels**: 该库专门用于统计建模与回归分析，能直接满足市场数据的统计建模与失败因素的深入回归
+- **langchain**: 专为构建、管理和优化 LLM 提示词流程与链式推理而设计。
 ## 最新洞见
 
 > [Groq错误: HTTP Error 429: Too Many Requests]
